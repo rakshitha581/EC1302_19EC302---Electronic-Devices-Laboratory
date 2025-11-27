@@ -5,7 +5,6 @@
  To plot the V-I characteristics of PN junction diode. 
 
  ## APPARATUS REQUIRED
-
 <img width="995" height="307" alt="image" src="https://github.com/user-attachments/assets/96086095-1c79-4eb9-8497-84ac4555b927" />
 
 ## THEORY
