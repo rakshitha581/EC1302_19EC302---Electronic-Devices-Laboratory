@@ -33,21 +33,18 @@ LT-Spice
 
 13.Click Run, and place the probe at each stage to observe: Transformer output, Rectifier output, Filtered output, Regulated output, Load voltage.
 
-
-
 ## CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-27 at 23 34 27_4c77b04e](https://github.com/user-attachments/assets/f43b840f-03ba-43da-b047-f8d8a0850172)
 
-
 ## AC INPUT WAVEFORM:
-
+![WhatsApp Image 2025-11-28 at 10 45 12_18c5315c](https://github.com/user-attachments/assets/02b7757d-83ef-43b7-9b5c-987a550f9612)
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
+![WhatsApp Image 2025-11-28 at 10 45 12_19356805](https://github.com/user-attachments/assets/85634638-c47b-490b-90a4-d1b2a7b03e7d)
 
 ## SIGNAL OUTPUT(WITH FILTER)
-
-
+![WhatsApp Image 2025-11-28 at 10 45 12_90430509](https://github.com/user-attachments/assets/68a35ddc-e469-4278-acc3-4335b930ea1c)
 
 ## RESULT:
 Thus the output waveform at each stage was observed and analyzed. A stable regulated DC output was obtained at the load of RPS using LT-spice is simulated and verified. 
