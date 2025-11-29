@@ -25,9 +25,10 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-27 at 23 29 49_f9d1180d](https://github.com/user-attachments/assets/2e4e1c36-8ef5-4e02-8681-2160eacb0aee)
+![WhatsApp Image 2025-11-27 at 23 30 24_87a7feb1](https://github.com/user-attachments/assets/2f617254-d805-4ad3-b688-9f356d8bfd36)
 
 ## OUTPUT GRAPH:
-![WhatsApp Image 2025-11-27 at 23 30 24_87a7feb1](https://github.com/user-attachments/assets/2f617254-d805-4ad3-b688-9f356d8bfd36)
+<img width="1920" height="1200" alt="Screenshot 2025-11-29 110526" src="https://github.com/user-attachments/assets/49690a56-cb89-4377-8bc6-563b52e44c06" />
 
 ## RESULT:
 Thus the frequency response of common emitter configuration circuit using LT-spice is simulated and verified. 
